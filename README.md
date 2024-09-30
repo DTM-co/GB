@@ -11,6 +11,19 @@
 - *   start
 - (   open bracket
 - )   close bracket
+- 
+- ## Keyboard shortcuts
+- 
+- Shortcuts I use daily:
+- -Ctrl-C (copy)
+- -Ctrl-V (paste)
+- -Ctrl-Prt (screenshot)
+- 
+- Shotcuts I should use more:
+- -Ctrl-F (open find field)
+- -Ctrl-S (Save file)
+- -Ctrl-P (Print preview)
+- 
 
 # Links
 [GBC website](https://https://www.georgebrown.ca)
